@@ -18,18 +18,22 @@ pip install -r requirements.txt
 ```
 
 ## Contents
+## Contents
+
 | Path | Purpose |
 |---|---|
-| `Functions/` | functions for calculations and data handling |
-| `DataProcessing/` | scripts that calculate all used data  |
+| `Functions/` | Functions for calculations and data handling |
+| `DataProcessing/` | Scripts that calculate all used data |
 | `PlottingNotebooks/` | Jupyter Notebooks that contain code for all plots |
 
 ## Outputs
+
 | Output | Script |
-| Equatorial Wave Decomposition | EqWavesMain.py |
-| Occurrence frequencies of turbulence indices | DailyMapMain.py |
-| Composites at low Ri events | Composites.py |
-| ERA5 datasets at SHADOZ locations and days | Era5atShadoz.py |
+|---|---|
+| Equatorial wave decomposition | `EqWavesMain.py` |
+| Occurrence frequencies of turbulence indices | `DailyMapMain.py` |
+| Composites at low Ri events | `Composites.py` |
+| ERA5 datasets at SHADOZ locations and days | `Era5atShadoz.py` |
 | Fig. 1 | `PlottingNotebooks/OccurrenceFrequencyMap.ipynb` |
 | Fig. 2 | `PlottingNotebooks/CompositeAnalysis.ipynb` |
 | Fig. 3 | `PlottingNotebooks/Shadoz.ipynb` |
