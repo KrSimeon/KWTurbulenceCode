@@ -1,0 +1,10 @@
+cartopy
+cmocean
+dask
+matplotlib
+numpy
+pandas
+scipy
+tqdm
+xarray
+xrft
