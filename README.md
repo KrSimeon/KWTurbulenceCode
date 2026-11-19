@@ -2,7 +2,7 @@ This repository contains the code and data analysis for the paper:
 
 Kelvin Wave Induced Shear-Instabilities and Implications for Ozone Across the Tropical Tropopause
 
-Simeon Kraus, Daniel Kunkel, Peter Hoor (2026). , doi:
+Simeon Kraus, Daniel Kunkel, Peter Hoor (2026). , doi: in preparation 
 
 ## Requirements
 
