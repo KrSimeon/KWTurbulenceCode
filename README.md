@@ -47,6 +47,6 @@ pip install -r requirements.txt
 
 If you use this code or data in your research, please cite this repository:
 
-DOI: [10.5281/zenodo.24342019](https://doi.org/10.5281/zenodo.24342019).
+DOI: [10.5281/zenodo.24460549](https://doi.org/10.5281/zenodo.24460549).
 
 **Contact:** [sikraus@uni-mainz.de](mailto:sikraus@uni-mainz.de)
