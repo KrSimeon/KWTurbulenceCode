@@ -1,4 +1,4 @@
-This repository contains the code and data analysis for the paper:
+This repository contains the code for plotting and data analysis for the paper:
 
 Kelvin Wave Induced Shear-Instabilities and Implications for Ozone Across the Tropical Tropopause
 
