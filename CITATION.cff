@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Kraus
+  given-names: Simeon
+orcid: https://orcid.org/0009-0005-9387-0471
+title:KrSimeon/KWTurbulenceCode: Code for Kelvin Wave Induced Shear-Instabilities and Implications for Ozone Across the Tropical Tropopause
+version: v1.0.0
+date-released: 2026-11-23
